@@ -1,4 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ravindu Deshan perera</h1>
+<video width="640" height="360" controls>
+  <source src="C:\Users\Deshan\AppData\Local\CapCut\Videos" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 <h3 align="center">Passionate about developing games and applications using Python.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rdeshan&label=Profile%20views&color=0e75b6&style=flat" alt="rdeshan" /> </p>

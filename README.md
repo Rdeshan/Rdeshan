@@ -9,7 +9,8 @@
 
 - 📫 How to reach me **deshr.perera03@gmail.com**
 
-<h3 align="left">Connect with me:<a href https:www.linkedin.com/in/ravindu-perera-272640283>LinkedIn</h3>
+<h3 align="left">Connect with me: <a href="https://www.linkedin.com/in/ravindu-perera-272640283">LinkedIn</a></h3>
+
 <p align="left">
 </p>
 

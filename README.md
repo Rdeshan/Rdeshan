@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rdeshan" alt="rdeshan" /></a> </p>
 
-- 🌱 I’m currently learning **python**
+- 🌱 I’m currently engage with web Development using MERN stack 
 
 - 📫 How to reach me **deshr.perera03@gmail.com**
 

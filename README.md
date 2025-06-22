@@ -4,7 +4,7 @@
   Your browser does not support the video tag.
 </video>
 
-<h3 align="center">Passionate about developing games and applications using Python.</h3>
+<h3 align="center">Passionate about developing games and Real world Web applications.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rdeshan&label=Profile%20views&color=0e75b6&style=flat" alt="rdeshan" /> </p>
 

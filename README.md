@@ -1,24 +1,89 @@
-<h1 align="center">Hi 👋, I'm Ravindu Deshan perera</h1>
+<h1 align="center">Hi 👋, I'm Ravindu Deshan Perera</h1>
+<h3 align="center">🚀 Full-Stack Developer | MERN Stack | Desktop & Web Applications</h3>
 
-
-<h3 align="center">Passionate about developing games and Real world Web applications.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rdeshan&label=Profile%20views&color=0e75b6&style=flat" alt="rdeshan" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rdeshan" alt="rdeshan" /></a> </p>
-
-- 🌱 I’m currently engage with web Development using MERN stack 
-
-- 📫 How to reach me **deshr.perera03@gmail.com**
-
-<h3 align="left">Connect with me: <a href="https://www.linkedin.com/in/ravindu-perera-272640283">LinkedIn</a></h3>
-
-<p align="left">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rdeshan&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/rdeshan?label=Followers&style=flat&color=blue" />
+  <img src="https://img.shields.io/github/stars/rdeshan?label=Stars&style=flat&color=yellow" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rdeshan&show_icons=true&locale=en&layout=compact" alt="rdeshan" /></p>
+## 👨‍💻 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rdeshan&show_icons=true&locale=en" alt="rdeshan" /></p>
+- 🌱 Currently working with **MERN Stack (MongoDB, Express, React, Node.js)**
+- 💻 Building **real-world web applications & desktop apps**
+- 🎮 Interested in **game development & system design**
+- 🎯 Career goal: **Become a professional Full-Stack Developer**
+- 📫 Reach me at: **deshr.perera03@gmail.com**
+
+---
+
+## 🔗 Connect With Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/ravindu-perera-272640283" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:deshr.perera03@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 🛠️ Languages & Tools
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="45"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rdeshan&theme=onedark&no-frame=true&row=1&column=7"/>
+</p>
+
+---
+
+## 📊 GitHub Statistics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rdeshan&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdeshan&layout=compact&theme=tokyonight" height="170"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rdeshan&theme=tokyonight"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+- 🖥️ **Desktop Shortcut Launcher (Electron.js)**
+- 🌐 **MERN Stack Management Systems**
+- 📱 **Android Applications (Kotlin)**
+- 📊 **Invoice & Cost Estimation Systems**
+
+👉 Check my repositories for more exciting projects!
+
+---
+
+## 💡 Fun Fact
+> *I love building systems that solve real-world problems and improve efficiency.*
+
+---
+
+⭐ **If you like my work, consider giving a star!**

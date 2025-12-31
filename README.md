@@ -13,7 +13,7 @@
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rdeshan&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=2&column=4" alt="rdeshan" />
+  <img src="https://github-profile-trophy.vercel.app/?username=rdeshan&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4" />
 </p>
 
 ---

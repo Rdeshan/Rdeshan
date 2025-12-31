@@ -1,10 +1,17 @@
 <h1 align="center">Hi 👋, I'm Ravindu Deshan Perera</h1>
-<h3 align="center">🚀 Full-Stack Developer | MERN Stack | Desktop & Web Applications</h3>
+<h3 align="center">🚀 Full-Stack Developer | MERN Stack | Web & Desktop Applications</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rdeshan&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=rdeshan&label=Profile%20Views&color=0e75b6&style=flat" />
   <img src="https://img.shields.io/github/followers/rdeshan?label=Followers&style=flat&color=blue" />
   <img src="https://img.shields.io/github/stars/rdeshan?label=Stars&style=flat&color=yellow" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://trophies-private.vercel.app/?username=rdeshan" />
 </p>
 
 ---
@@ -12,10 +19,9 @@
 ## 👨‍💻 About Me
 
 - 🌱 Currently working with **MERN Stack (MongoDB, Express, React, Node.js)**
-- 💻 Building **real-world web applications & desktop apps**
-- 🎮 Interested in **game development & system design**
-- 🎯 Career goal: **Become a professional Full-Stack Developer**
-- 📫 Reach me at: **deshr.perera03@gmail.com**
+- 💻 Building **real-world web & desktop applications**
+- 🎯 Goal: **Professional Full-Stack Developer**
+- 📫 Reach me at **deshr.perera03@gmail.com**
 
 ---
 
@@ -39,24 +45,14 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="45"/>
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rdeshan&theme=onedark&no-frame=true&row=1&column=7"/>
-</p>
-
----
-
-## 📊 GitHub Statistics
+## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rdeshan&show_icons=true&theme=tokyonight" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdeshan&layout=compact&theme=tokyonight" height="170"/>
@@ -71,19 +67,4 @@
 
 ---
 
-## 🚀 Featured Projects
-- 🖥️ **Desktop Shortcut Launcher (Electron.js)**
-- 🌐 **MERN Stack Management Systems**
-- 📱 **Android Applications (Kotlin)**
-- 📊 **Invoice & Cost Estimation Systems**
-
-👉 Check my repositories for more exciting projects!
-
----
-
-## 💡 Fun Fact
-> *I love building systems that solve real-world problems and improve efficiency.*
-
----
-
-⭐ **If you like my work, consider giving a star!**
+⭐ *If you like my work, consider giving a star!*
